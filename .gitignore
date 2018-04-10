@@ -7,6 +7,8 @@
 app.config
 web.config
 Passwords.cs
+Connections.cs
+Private.cs
 
 # User-specific files
 *.suo
