@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # TS-specified files
-app.config
-web.config
+# app.config   (comment out for now)
+# web.config   (comment out for now)
 Passwords.cs
 Connections.cs
 Private.cs
