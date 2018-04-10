@@ -3,6 +3,7 @@ Visual Studio Gitignore File
 
 - Edited 10 Apr 2018 to add app.config web.config and Passwords.cs
 - Edited 10 Apr 2018 to add Connections.cs and Private.cs
+- Edited 10 Apr 2018 to remove app.config and web.config
 - This repository is in **Dropbox\copyable-code\visual-studio-gitignore** not git-projects
 
 ## Recommendations for Storing Private Data
@@ -15,3 +16,5 @@ Visual Studio Gitignore File
 ## Comments
 
 - We do not currently know which is the best to use of the five files listed above
+- Passwords.cs is probably the current favourite
+- It may be that app.config and web.config do not need to be present by default so removed
